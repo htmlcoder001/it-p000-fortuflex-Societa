@@ -358,6 +358,7 @@ input[value="Получить бесплатно"]:active {
   width: auto !important;
   display: block;
   margin: 10px auto;
+  min-width: 200px;
 }
 
 input[placeholder="Ваше имя"],
